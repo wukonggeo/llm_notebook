@@ -7,7 +7,7 @@ https://github.com/google/gemma_pytorch
 https://github.com/OpenBMB/MiniCPM  
 **meta-llama/llama-recipes**  
 https://github.com/meta-llama/llama-recipes  
-**THUDM/GLM-4**
+**THUDM/GLM-4**  
 https://github.com/THUDM/GLM-4  
 
 ## llm model tutorial
