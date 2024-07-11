@@ -7,6 +7,8 @@ https://github.com/google/gemma_pytorch
 https://github.com/OpenBMB/MiniCPM  
 **meta-llama/llama-recipes**  
 https://github.com/meta-llama/llama-recipes  
+**THUDM/GLM-4**
+https://github.com/THUDM/GLM-4  
 
 ## llm model tutorial
 **mlabonne/llm-course**  
@@ -15,6 +17,8 @@ https://github.com/mlabonne/llm-course
 https://github.com/yuanzhoulvpi2017/zero_nlp  
 **NielsRogge/Transformers-Tutorials**  
 https://github.com/NielsRogge/Transformers-Tutorials  
+**InternLM/Tutorial**  
+https://github.com/InternLM/Tutorial  
 
 ## RAG
 **infiniflow/ragflow**  
