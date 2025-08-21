@@ -63,13 +63,13 @@ https://github.com/togethercomputer/MoA
 ## RL-LLM(Monte Carlo Tree)  
 **trotsky1997/MathBlackBox**  
 https://github.com/trotsky1997/MathBlackBox 
+**XinyuanWangCS/PromptAgent**  
+https://github.com/XinyuanWangCS/PromptAgent  
+**MARIO-Math-Reasoning/Super_MARIO**  
+https://github.com/MARIO-Math-Reasoning/Super_MARIO  
 
 ## Demo
 **流式聊天**
 https://github.com/Azure-Samples/openai-chat-backend-fastapi
 **PG聊天**
 https://github.com/Azure-Samples/rag-postgres-openai-python/
-**XinyuanWangCS/PromptAgent**  
-https://github.com/XinyuanWangCS/PromptAgent  
-**MARIO-Math-Reasoning/Super_MARIO**  
-https://github.com/MARIO-Math-Reasoning/Super_MARIO  
