@@ -69,7 +69,7 @@ https://github.com/XinyuanWangCS/PromptAgent
 https://github.com/MARIO-Math-Reasoning/Super_MARIO  
 
 ## Demo
-**流式聊天**
-https://github.com/Azure-Samples/openai-chat-backend-fastapi
-**PG聊天**
-https://github.com/Azure-Samples/rag-postgres-openai-python/
+**流式聊天**  
+https://github.com/Azure-Samples/openai-chat-backend-fastapi  
+**PG聊天**  
+https://github.com/Azure-Samples/rag-postgres-openai-python/  
