@@ -64,7 +64,7 @@ https://github.com/togethercomputer/MoA
 **trotsky1997/MathBlackBox**  
 https://github.com/trotsky1997/MathBlackBox 
 
-## Deomo
+## Demo
 **流式聊天**
 https://github.com/Azure-Samples/openai-chat-backend-fastapi
 **PG聊天**
